@@ -408,6 +408,7 @@ static inline char * minterp_getfirstnumber(char * math, int pos, bool searchinf
 	
 }
 
+// unused func
 static inline int minterp_getfurthestnumbpos(char * math, int pos, bool searchfront){
 	
 	int i, j, k, l = strlen(math);
