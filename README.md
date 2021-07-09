@@ -5,31 +5,37 @@
 - Operators are
 
 - [-] subtraction
+
 example:
 input  = "575 - 50"
 output = "+525"
 
 - [+] addition
+
 example:
 input  = "575 + 50"
 output = "+625"
 
 - [*] multiplication
+
 example:
 input  = "5 * 5"
 output = "+25"
 
 - [/] divison
+
 example:
 input  = "25 / 12.5"
 output = "+2.000000"
 
 - [^] the power of
+
 example:
 input  = "5^4"
 output = "+625"
 
 - [$] the root of
+
 example:
 input  = "2$4" // the square root of 4
 output = "+2.000000"
